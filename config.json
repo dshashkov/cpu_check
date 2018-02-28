@@ -1,0 +1,11 @@
+{
+  "duration": 5,
+  "timeUnit" : "second",
+  "percentAlarm" : 10,
+  "smtpHost": "smtp.yandex.ru",
+  "smtpPort": 587,
+  "from": "example@yandex.ru",
+  "to": "example@gmail.com",
+  "pass": "pass",
+  "message": "some message"
+}
